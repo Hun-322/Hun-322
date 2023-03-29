@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align=center><h1>Have a happy day today!</h1></div>
 
-<!--
-**Hun-322/Hun-322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align=center><h3>Skil</h3> </div>
+<p align=center>
+🔥 <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 🔥
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center><h3>✨✨ Tools ✨✨</h3></div>
+<p align=center>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="http://img.shields.io/badge/-xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+</p>
+
+<p align=center>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=k_hun"/>
+</p>
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=Hun-322&count_private=true&show_icons=true&theme=gruvbox"/>
+</p>
