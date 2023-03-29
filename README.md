@@ -19,5 +19,5 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=k_hun"/>
 </p>
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Hun-322&count_private=true&show_icons=true&theme=gruvbox"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hun-322&count_private=true&show_icons=true&theme=highcontrast"/>
 </p>
