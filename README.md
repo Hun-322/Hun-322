@@ -1,7 +1,7 @@
 <div align=center><h1>Have a happy day today!</h1></div>
 
 
-<div align=center><h3>Skil</h3> </div>
+<div align=center><h3>Skill</h3> </div>
 <p align=center>
 🔥 <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 🔥
 </p>
